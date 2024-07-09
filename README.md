@@ -93,5 +93,5 @@ To improve the nutritional profile of their menu, McDonald's can consider the fo
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/mcdonalds-nutritional-analysis.git
+   git clone https://github.com/Satyam18g/mcdonalds-nutritional-analysis.git
    cd mcdonalds-nutritional-analysis
